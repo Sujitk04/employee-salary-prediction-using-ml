@@ -1,0 +1,84 @@
+.avg-container {
+  padding: 30px;
+  background: #f5f7fb;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+/* Main Card */
+.avg-card {
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: white;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.avg-value {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Stats Row */
+.stats-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  gap: 20px;
+}
+
+.stat-box {
+  flex: 1;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+.stat-box:hover {
+  transform: translateY(-5px);
+}
+
+.stat-box h4 {
+  color: #777;
+}
+
+.stat-box p {
+  font-size: 22px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Recent */
+.recent-box {
+  margin-top: 30px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.recent-box ul {
+  list-style: none;
+  padding: 0;
+}
+
+.recent-box li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+  font-weight: 500;
+}
+
+.recent-box li:last-child {
+  border-bottom: none;
+}

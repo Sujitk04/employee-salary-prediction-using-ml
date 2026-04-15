@@ -1,0 +1,215 @@
+Gender,Education_Level,Qualification,Experience,Category,JobRole,PrimarySkill,Location,Salary
+Male,Bachelor,B.Tech,0,IT,Software Engineer,Java,Bangalore,320000
+Female,Bachelor,BCA,1,IT,Frontend Developer,React,Chennai,360000
+Male,Master,MCA,2,IT,Backend Developer,Node.js,Hyderabad,520000
+Female,Master,MSc,3,IT,Data Scientist,Python,Pune,720000
+Male,Bachelor,B.Tech,1,IT,DevOps Engineer,Docker,Bangalore,460000
+Male,Bachelor,B.Tech,2,IT,Cloud Engineer,AWS,Hyderabad,600000
+Female,Master,MSc,4,IT,Machine Learning Engineer,TensorFlow,Pune,900000
+Male,Bachelor,B.Tech,5,IT,Data Engineer,Python,Bangalore,1000000
+Female,Bachelor,B.Tech,3,IT,Cybersecurity Analyst,Cybersecurity,Hyderabad,750000
+Male,Bachelor,B.Tech,4,IT,Full Stack Developer,JavaScript,Chennai,800000
+Male,Master,M.E/M.Tech,5,IT,Full Stack Developer,React,Bangalore,1250000
+Female,Bachelor,BCA,2,IT,Frontend Developer,JavaScript,Mumbai,680000
+Male,Diploma,Diploma in IT,10,NON_IT,Sales Manager,Sales Strategy,Chennai,950000
+Female,Master,MBA,3,NON_IT,HR Executive,Communication,Delhi,520000
+Male,Bachelor,B.Tech / B.E,1,IT,Software Engineer,Java,Hyderabad,550000
+Female,Master,MSc CS,7,IT,Data Scientist,Python,Pune,1450000
+Male,Bachelor,BBA,4,NON_IT,Marketing Executive,Digital Marketing,Bangalore,620000
+Female,Bachelor,B.Sc,0,IT,Mobile App Developer,JavaScript,Chennai,420000
+Male,Diploma,Diploma in Computer Engineering,8,IT,DevOps Engineer,Docker,Mumbai,1550000
+Female,Master,MCA,6,IT,Cloud Engineer,AWS,Delhi,1320000
+Male,Bachelor,B.Com,12,NON_IT,Finance Analyst,Financial Analysis,Hyderabad,1100000
+Female,Bachelor,B.Tech / B.E,4,IT,Backend Developer,Node.js,Bangalore,980000
+Male,Master,M.E/M.Tech,15,IT,Data Engineer,SQL,Pune,2200000
+Female,Diploma,Diploma in IT,2,IT,Frontend Developer,React,Chennai,580000
+Male,Bachelor,BCA,3,IT,Software Engineer,Python,Mumbai,720000
+Female,Master,MBA,8,NON_IT,Business Analyst,Excel,Bangalore,1250000
+Male,Bachelor,B.Sc,5,IT,Machine Learning Engineer,TensorFlow,Delhi,1150000
+Female,Bachelor,BBA,1,NON_IT,Marketing Executive,Digital Marketing,Hyderabad,450000
+Male,Master,MSc CS,9,IT,Cybersecurity Analyst,Python,Mumbai,1650000
+Female,Diploma,Diploma in Computer Engineering,4,IT,Full Stack Developer,JavaScript,Pune,820000
+Male,Bachelor,B.Com,6,NON_IT,Operations Manager,Leadership,Chennai,850000
+Female,Master,M.E/M.Tech,11,IT,Data Scientist,PyTorch,Bangalore,1950000
+Male,Bachelor,B.Tech / B.E,2,IT,DevOps Engineer,Kubernetes,Delhi,780000
+Female,Bachelor,BCA,7,IT,Mobile App Developer,React,Hyderabad,1100000
+Male,Master,MCA,1,IT,Software Engineer,Java,Mumbai,560000
+Female,Bachelor,BBA,5,NON_IT,Sales Manager,CRM,Pune,750000
+Male,Diploma,Diploma in IT,13,NON_IT,Customer Support Executive,Communication,Bangalore,920000
+Female,Master,MBA,10,NON_IT,Finance Analyst,Excel,Delhi,1350000
+Male,Bachelor,B.Sc,3,IT,Backend Developer,MongoDB,Chennai,690000
+Female,Bachelor,B.Tech / B.E,0,IT,Frontend Developer,JavaScript,Mumbai,480000
+Male,Master,M.E/M.Tech,6,IT,Cloud Engineer,Docker,Bangalore,1280000
+Female,Bachelor,BCA,4,IT,Software Engineer,Python,Pune,890000
+Male,Bachelor,BBA,2,NON_IT,HR Executive,Communication,Hyderabad,410000
+Female,Master,MSc CS,14,IT,Data Engineer,AWS,Mumbai,2150000
+Male,Diploma,Diploma in Computer Engineering,5,IT,Cybersecurity Analyst,SQL,Delhi,940000
+Female,Bachelor,B.Com,8,NON_IT,Sales Manager,Sales Strategy,Bangalore,1120000
+Male,Master,MCA,3,IT,Full Stack Developer,Node.js,Chennai,780000
+Female,Bachelor,B.Tech / B.E,12,IT,Machine Learning Engineer,PyTorch,Hyderabad,2050000
+Male,Bachelor,B.Sc,1,IT,Frontend Developer,React,Mumbai,520000
+Female,Master,MBA,5,NON_IT,Business Analyst,Financial Analysis,Pune,850000
+Male,Diploma,Diploma in IT,18,NON_IT,Operations Manager,Leadership,Bangalore,1650000
+Female,Bachelor,BCA,2,IT,Mobile App Developer,JavaScript,Delhi,640000
+Male,Master,M.E/M.Tech,8,IT,DevOps Engineer,Docker,Chennai,1480000
+Female,Bachelor,BBA,6,NON_IT,Marketing Executive,Digital Marketing,Mumbai,880000
+Male,Bachelor,B.Com,4,NON_IT,Finance Analyst,Excel,Hyderabad,720000
+Female,Master,MSc CS,3,IT,Software Engineer,Java,Bangalore,760000
+Male,Bachelor,B.Tech / B.E,9,IT,Data Scientist,Python,Pune,1680000
+Female,Diploma,Diploma in Computer Engineering,1,IT,Backend Developer,Node.js,Delhi,510000
+Male,Master,MCA,12,IT,Cloud Engineer,Kubernetes,Mumbai,1980000
+Female,Bachelor,BCA,5,IT,Full Stack Developer,React,Chennai,980000
+Male,Bachelor,BBA,10,NON_IT,Sales Manager,Sales Strategy,Hyderabad,1280000
+Female,Master,MBA,2,NON_IT,HR Executive,Communication,Bangalore,490000
+Male,Bachelor,B.Sc,7,IT,Cybersecurity Analyst,Python,Pune,1320000
+Female,Bachelor,B.Tech / B.E,15,IT,Data Engineer,AWS,Delhi,2350000
+Male,Diploma,Diploma in IT,3,IT,Frontend Developer,JavaScript,Mumbai,610000
+Female,Master,M.E/M.Tech,4,IT,Software Engineer,Python,Chennai,920000
+Male,Bachelor,BCA,11,IT,Machine Learning Engineer,TensorFlow,Bangalore,1850000
+Female,Bachelor,BBA,8,NON_IT,Business Analyst,Excel,Mumbai,1180000
+Male,Master,MCA,2,IT,Mobile App Developer,React,Hyderabad,650000
+Female,Bachelor,B.Com,5,NON_IT,Marketing Executive,Digital Marketing,Pune,740000
+Male,Diploma,Diploma in Computer Engineering,12,IT,DevOps Engineer,Docker,Delhi,1820000
+Female,Master,MSc CS,6,IT,Cloud Engineer,AWS,Bangalore,1280000
+Male,Bachelor,B.Tech / B.E,3,IT,Backend Developer,Node.js,Mumbai,780000
+Female,Bachelor,BCA,0,IT,Frontend Developer,JavaScript,Chennai,400000
+Male,Master,MBA,14,NON_IT,Operations Manager,Leadership,Hyderabad,1620000
+Female,Bachelor,B.Sc,4,IT,Software Engineer,Java,Pune,840000
+Male,Diploma,Diploma in IT,7,IT,Full Stack Developer,React,Delhi,1220000
+Female,Master,M.E/M.Tech,9,IT,Data Scientist,Python,Mumbai,1750000
+Male,Bachelor,BBA,3,NON_IT,HR Executive,Communication,Chennai,510000
+Female,Bachelor,B.Tech / B.E,8,IT,Cloud Engineer,Docker,Bangalore,1420000
+Male,Master,MCA,5,IT,Cybersecurity Analyst,SQL,Pune,1120000
+Female,Diploma,Diploma in Computer Engineering,10,IT,Data Engineer,AWS,Hyderabad,1680000
+Male,Bachelor,BCA,1,IT,Frontend Developer,React,Mumbai,530000
+Female,Master,MBA,6,NON_IT,Finance Analyst,Financial Analysis,Delhi,980000
+Male,Bachelor,B.Sc,13,IT,Machine Learning Engineer,TensorFlow,Bangalore,2150000
+Female,Bachelor,BBA,2,NON_IT,Sales Manager,CRM,Chennai,480000
+Male,Master,MSc CS,4,IT,Software Engineer,Python,Hyderabad,920000
+Female,Diploma,Diploma in IT,5,IT,Mobile App Developer,JavaScript,Mumbai,820000
+Male,Bachelor,B.Com,9,NON_IT,Business Analyst,Excel,Pune,1150000
+Female,Master,M.E/M.Tech,12,IT,DevOps Engineer,Kubernetes,Delhi,2100000
+Male,Bachelor,B.Tech / B.E,4,IT,Full Stack Developer,Node.js,Bangalore,940000
+Female,Bachelor,BCA,6,IT,Backend Developer,MongoDB,Chennai,1080000
+Male,Master,MCA,8,IT,Data Scientist,PyTorch,Mumbai,1580000
+Female,Bachelor,BBA,3,NON_IT,Marketing Executive,Digital Marketing,Hyderabad,560000
+Male,Diploma,Diploma in Computer Engineering,2,IT,Frontend Developer,JavaScript,Pune,640000
+Female,Master,MBA,11,NON_IT,Operations Manager,Leadership,Delhi,1420000
+Male,Bachelor,B.Sc,0,IT,Software Engineer,Java,Bangalore,450000
+Female,Bachelor,B.Tech / B.E,5,IT,Cloud Engineer,AWS,Mumbai,1120000
+Male,Master,MSc CS,7,IT,Cybersecurity Analyst,Python,Chennai,1350000
+Female,Diploma,Diploma in IT,14,NON_IT,Sales Manager,Sales Strategy,Hyderabad,1420000
+Male,Bachelor,BCA,9,IT,Machine Learning Engineer,TensorFlow,Pune,1620000
+Female,Master,M.E/M.Tech,2,IT,Data Engineer,SQL,Delhi,720000
+Male,Bachelor,BBA,4,NON_IT,HR Executive,Communication,Bangalore,680000
+Female,Bachelor,B.Com,7,NON_IT,Finance Analyst,Excel,Mumbai,920000
+Male,Master,MCA,15,IT,Software Engineer,Python,Chennai,2400000
+Female,Diploma,Diploma in Computer Engineering,3,IT,Frontend Developer,React,Hyderabad,690000
+Male,Bachelor,B.Tech / B.E,1,IT,Backend Developer,Node.js,Pune,540000
+Female,Master,MBA,8,NON_IT,Business Analyst,Financial Analysis,Delhi,1220000
+Male,Bachelor,BCA,10,IT,Full Stack Developer,JavaScript,Bangalore,1750000
+Female,Bachelor,B.Sc,5,IT,Mobile App Developer,React,Mumbai,940000
+Male,Master,MSc CS,6,IT,DevOps Engineer,Docker,Chennai,1280000
+Female,Bachelor,BBA,2,NON_IT,Marketing Executive,Digital Marketing,Hyderabad,460000
+Male,Diploma,Diploma in IT,12,IT,Cloud Engineer,AWS,Pune,1850000
+Female,Master,M.E/M.Tech,4,IT,Software Engineer,Java,Delhi,920000
+Male,Bachelor,B.Com,3,NON_IT,Finance Analyst,Excel,Bangalore,580000
+Female,Bachelor,B.Tech / B.E,11,IT,Data Scientist,Python,Mumbai,1980000
+Male,Master,MCA,7,IT,Cybersecurity Analyst,SQL,Chennai,1320000
+Female,Diploma,Diploma in Computer Engineering,1,IT,Frontend Developer,JavaScript,Hyderabad,490000
+Male,Bachelor,BCA,8,IT,Backend Developer,Node.js,Pune,1380000
+Female,Master,MBA,13,NON_IT,Operations Manager,Leadership,Delhi,1580000
+Male,Bachelor,B.Sc,4,IT,Software Engineer,Python,Bangalore,880000
+Female,Bachelor,BBA,0,NON_IT,HR Executive,Communication,Mumbai,320000
+Male,Master,MSc CS,10,IT,Data Engineer,AWS,Chennai,1780000
+Female,Diploma,Diploma in IT,6,IT,Full Stack Developer,React,Hyderabad,1120000
+Male,Bachelor,B.Com,2,NON_IT,Marketing Executive,Digital Marketing,Pune,420000
+Female,Master,M.E/M.Tech,14,IT,Machine Learning Engineer,TensorFlow,Delhi,2450000
+Male,Bachelor,B.Tech / B.E,5,IT,DevOps Engineer,Kubernetes,Bangalore,1180000
+Female,Bachelor,BCA,3,IT,Cloud Engineer,Docker,Mumbai,780000
+Male,Master,MCA,9,IT,Data Scientist,PyTorch,Chennai,1680000
+Female,Bachelor,BBA,11,NON_IT,Sales Manager,Sales Strategy,Hyderabad,1380000
+Male,Diploma,Diploma in Computer Engineering,7,IT,Software Engineer,Java,Pune,1220000
+Female,Master,MBA,4,NON_IT,Business Analyst,Excel,Delhi,780000
+Male,Bachelor,B.Sc,12,IT,Full Stack Developer,Node.js,Bangalore,1950000
+Female,Bachelor,B.Tech / B.E,1,IT,Frontend Developer,JavaScript,Mumbai,520000
+Male,Master,MSc CS,5,IT,Mobile App Developer,React,Chennai,1080000
+Female,Diploma,Diploma in IT,8,NON_IT,Finance Analyst,Financial Analysis,Hyderabad,1080000
+Male,Bachelor,BCA,4,IT,Cybersecurity Analyst,Python,Pune,880000
+Female,Master,M.E/M.Tech,10,IT,Cloud Engineer,AWS,Delhi,1820000
+Male,Bachelor,BBA,6,NON_IT,Marketing Executive,Digital Marketing,Bangalore,840000
+Female,Bachelor,B.Com,3,NON_IT,HR Executive,Communication,Mumbai,480000
+Male,Master,MCA,2,IT,Software Engineer,Python,Chennai,680000
+Female,Diploma,Diploma in Computer Engineering,15,IT,Data Engineer,SQL,Hyderabad,2250000
+Male,Bachelor,B.Tech / B.E,7,IT,Backend Developer,Node.js,Pune,1280000
+Female,Master,MBA,1,NON_IT,Business Analyst,Excel,Delhi,420000
+Male,Bachelor,BCA,13,IT,Data Scientist,Python,Bangalore,2200000
+Female,Bachelor,B.Sc,2,IT,Frontend Developer,React,Mumbai,620000
+Male,Master,MSc CS,8,IT,DevOps Engineer,Docker,Chennai,1450000
+Female,Diploma,Diploma in IT,12,NON_IT,Operations Manager,Leadership,Hyderabad,1350000
+Male,Bachelor,BBA,5,NON_IT,Sales Manager,CRM,Pune,780000
+Female,Master,M.E/M.Tech,6,IT,Full Stack Developer,JavaScript,Delhi,1280000
+Male,Bachelor,B.Tech / B.E,0,IT,Software Engineer,Java,Bangalore,420000
+Female,Bachelor,BCA,14,IT,Machine Learning Engineer,TensorFlow,Mumbai,2350000
+Male,Master,MCA,4,IT,Mobile App Developer,React,Chennai,920000
+Female,Diploma,Diploma in Computer Engineering,9,IT,Cloud Engineer,AWS,Hyderabad,1580000
+Male,Bachelor,BBA,11,NON_IT,Finance Analyst,Financial Analysis,Pune,1280000
+Female,Master,MBA,3,NON_IT,HR Executive,Communication,Delhi,540000
+Male,Bachelor,B.Sc,7,IT,Data Scientist,PyTorch,Bangalore,1380000
+Female,Bachelor,B.Tech / B.E,2,IT,Frontend Developer,JavaScript,Mumbai,640000
+Male,Master,MSc CS,15,IT,Data Engineer,SQL,Chennai,2500000
+Female,Diploma,Diploma in IT,1,IT,Software Engineer,Python,Hyderabad,520000
+Male,Bachelor,BCA,5,IT,Backend Developer,Node.js,Pune,980000
+Female,Master,M.E/M.Tech,10,IT,DevOps Engineer,Kubernetes,Delhi,1850000
+Male,Bachelor,B.Com,2,NON_IT,Finance Analyst,Excel,Mumbai,420000
+Female,Master,MBA,4,NON_IT,Business Analyst,Power BI,Noida,760000
+Male,Bachelor,BBA,1,NON_IT,HR Executive,Communication,Coimbatore,310000
+Female,Bachelor,BBA,3,NON_IT,Marketing Executive,Digital Marketing,Mumbai,500000
+Male,Master,MBA,5,NON_IT,Product Manager,Leadership,Delhi NCR,950000
+Female,Bachelor,BBA,3,NON_IT,Sales Manager,CRM,Mumbai,650000
+Male,Bachelor,B.Com,4,NON_IT,Accountant,Tally,Chennai,550000
+Female,Master,MBA,2,NON_IT,Operations Manager,Management,Pune,600000
+Male,Bachelor,BBA,1,NON_IT,Customer Support Executive,Communication,Coimbatore,300000
+Female,Bachelor,B.Com,2,NON_IT,HR Assistant,Recruitment,Chennai,350000
+Male,Bachelor,B.Tech,3,IT,Software Engineer,Java,Bangalore,650000
+Female,Bachelor,BCA,2,IT,Frontend Developer,React,Chennai,500000
+Male,Master,MCA,4,IT,Backend Developer,Node.js,Hyderabad,800000
+Female,Master,MSc,5,IT,Data Scientist,Python,Pune,950000
+Male,Bachelor,B.Tech,6,IT,DevOps Engineer,Docker,Bangalore,1100000
+Male,Bachelor,B.Tech,7,IT,Cloud Engineer,AWS,Hyderabad,1200000
+Female,Master,MSc,6,IT,Machine Learning Engineer,TensorFlow,Pune,1150000
+Male,Bachelor,B.Tech,8,IT,Data Engineer,Python,Bangalore,1400000
+Female,Bachelor,B.Tech,6,IT,Cybersecurity Analyst,Cybersecurity,Hyderabad,1100000
+Male,Bachelor,B.Tech,7,IT,Full Stack Developer,JavaScript,Chennai,1200000
+Male,Bachelor,B.Com,3,NON_IT,Finance Analyst,Excel,Mumbai,500000
+Female,Master,MBA,5,NON_IT,Business Analyst,Power BI,Noida,850000
+Male,Bachelor,BBA,2,NON_IT,HR Executive,Communication,Coimbatore,400000
+Female,Bachelor,BBA,4,NON_IT,Marketing Executive,Digital Marketing,Mumbai,600000
+Male,Master,MBA,6,NON_IT,Product Manager,Leadership,Delhi NCR,1100000
+Female,Bachelor,BBA,5,NON_IT,Sales Manager,CRM,Mumbai,800000
+Male,Bachelor,B.Com,6,NON_IT,Accountant,Tally,Chennai,750000
+Female,Master,MBA,4,NON_IT,Operations Manager,Management,Pune,700000
+Male,Bachelor,BBA,2,NON_IT,Customer Support Executive,Communication,Coimbatore,400000
+Female,Bachelor,B.Com,3,NON_IT,HR Assistant,Recruitment,Chennai,450000
+Male,Diploma,Diploma IT,1,IT,Software Engineer,Java,Bangalore,300000
+Female,Diploma,Diploma CS,2,IT,Frontend Developer,React,Chennai,350000
+Male,Diploma,Diploma IT,3,IT,Backend Developer,Node.js,Hyderabad,500000
+Female,Diploma,Diploma CS,4,IT,Data Analyst,Python,Pune,600000
+Male,Diploma,Diploma IT,2,IT,QA Engineer,Java,Chennai,450000
+Female,Diploma,Diploma CS,3,IT,Support Engineer,Networking,Bangalore,500000
+Male,Diploma,Diploma IT,1,NON_IT,Sales Executive,Communication,Mumbai,250000
+Female,Diploma,Diploma CS,2,NON_IT,HR Assistant,Recruitment,Chennai,300000
+Male,Diploma,Diploma IT,3,NON_IT,Customer Support Executive,Communication,Coimbatore,350000
+Female,Diploma,Diploma CS,4,NON_IT,Marketing Assistant,Digital Marketing,Mumbai,400000
+Male,Bachelor,B.Tech,9,IT,Software Engineer,Java,Bangalore,1500000
+Female,Master,MCA,8,IT,Backend Developer,Node.js,Hyderabad,1400000
+Male,Master,MSc,9,IT,Data Scientist,Python,Pune,1600000
+Female,Master,MSc,7,IT,Machine Learning Engineer,TensorFlow,Bangalore,1300000
+Male,Bachelor,B.Tech,10,IT,Cloud Engineer,AWS,Hyderabad,1700000
+Female,Bachelor,B.Tech,8,IT,Full Stack Developer,JavaScript,Chennai,1400000
+Male,Master,MBA,7,NON_IT,Product Manager,Leadership,Delhi NCR,1300000
+Female,Master,MBA,6,NON_IT,Business Analyst,Power BI,Mumbai,1000000
+Male,Bachelor,B.Com,7,NON_IT,Finance Analyst,Excel,Mumbai,900000
+Female,Bachelor,BBA,6,NON_IT,Marketing Executive,Digital Marketing,Mumbai,850000
+Male,Bachelor,BBA,5,NON_IT,Sales Manager,CRM,Chennai,800000
+Female,Bachelor,B.Com,6,NON_IT,HR Executive,Communication,Coimbatore,750000

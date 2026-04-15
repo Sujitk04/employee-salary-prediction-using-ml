@@ -1,0 +1,122 @@
+.manage-users-container {
+  padding: 20px;
+  color: #e2e8f0;
+  background-color: #0f172a;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.header h2 {
+  margin: 0;
+  font-size: 22px;
+}
+
+/* Add button */
+.add-btn {
+  background-color: #22c55e;
+  border: none;
+  padding: 8px 14px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.add-btn:hover {
+  background-color: #16a34a;
+}
+
+/* Search box */
+.search-box {
+  padding: 8px 10px;
+  width: 260px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  margin-bottom: 16px;
+}
+
+/* Table */
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #1e293b;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.user-table thead {
+  background-color: #334155;
+}
+
+.user-table th {
+  text-align: left;
+  padding: 12px;
+  font-size: 14px;
+  color: #cbd5f5;
+}
+
+.user-table td {
+  padding: 12px;
+  font-size: 14px;
+}
+
+.user-table tr {
+  border-bottom: 1px solid #334155;
+  transition: 0.2s;
+}
+
+.user-table tr:hover {
+  background-color: #273449;
+}
+
+/* Buttons */
+.edit-btn {
+  background-color: #3b82f6;
+  border: none;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 4px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.edit-btn:hover {
+  background-color: #2563eb;
+}
+
+.delete-btn {
+  background-color: #ef4444;
+  border: none;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 4px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background-color: #dc2626;
+}
+
+.block-btn {
+  background-color: #f59e0b;
+  border: none;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.block-btn:hover {
+  background-color: #d97706;
+}

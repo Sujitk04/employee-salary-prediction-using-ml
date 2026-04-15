@@ -1,0 +1,6 @@
+[
+  {"name": "Linear Regression", "accuracy": 0.65, "rmse": 0.35},
+  {"name": "Decision Tree", "accuracy": 0.72, "rmse": 0.28},
+  {"name": "Random Forest", "accuracy": 0.88, "rmse": 0.12},
+  {"name": "Gradient Boosting", "accuracy": 0.91, "rmse": 0.09}
+]
